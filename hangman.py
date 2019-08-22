@@ -15,6 +15,7 @@ while attempts>0:
 
     guesses+=guess
 
+    #string contain correct guesses in order of word
     newword=""
     
     for char in word:
